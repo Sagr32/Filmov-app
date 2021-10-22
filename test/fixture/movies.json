@@ -1,0 +1,41 @@
+[{
+    "adult": false,
+    "backdrop_path": "backdrop path test",
+    "genre_ids": [
+        28,
+        12,
+        14,
+        35
+    ],
+    "id": 436969,
+    "original_language": "en",
+    "original_title": "The Suicide Squad",
+    "overview": "The Suicide Squad overview",
+    "popularity": 1723.518,
+    "poster_path": "poster path test",
+    "release_date": "2021-07-28",
+    "title": "The Suicide Squad",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 4205
+},{
+    "adult": false,
+    "backdrop_path": "backdrop path test",
+    "genre_ids": [
+        28,
+        12,
+        14,
+        35
+    ],
+    "id": 436969,
+    "original_language": "en",
+    "original_title": "The Suicide Squad",
+    "overview": "The Suicide Squad overview",
+    "popularity": 1723.518,
+    "poster_path": "poster path test",
+    "release_date": "2021-07-28",
+    "title": "The Suicide Squad",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 4205
+}]
