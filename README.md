@@ -5,11 +5,11 @@ A new Flutter application.
 ## Screenshots
 
 <p float="left">
-  <img src="https://i.imgur.com/YX7rPK8.png"  />
-    <img src="https://i.imgur.com/f4zrtvE.png"  />
-  <img src="https://i.imgur.com/PBmmYDy.png"  />
-  <img src="https://i.imgur.com/YX7rPK8.png"  />
-  <img src="https://i.imgur.com/rv1RfdQ.png"  />
+  <img src="https://i.imgur.com/YX7rPK8.png" height="500" />
+    <img src="https://i.imgur.com/f4zrtvE.png"  height="500" />
+  <img src="https://i.imgur.com/PBmmYDy.png" height="500" />
+  <img src="https://i.imgur.com/YX7rPK8.png" height="500" />
+  <img src="https://i.imgur.com/rv1RfdQ.png" height="500" />
 
  
  
